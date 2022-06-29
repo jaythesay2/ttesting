@@ -1,4 +1,4 @@
-#View as raw-----------------
+#VIEW README AS RAW-----------------
 #answer2
 t.test(Dominos$Time,mu=173.62)
 
