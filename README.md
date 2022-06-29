@@ -1,7 +1,8 @@
+#View as raw-----------------
 #answer2
 t.test(Dominos$Time,mu=173.62)
 
-	One Sample t-test
+One Sample t-test
 
 data:  Dominos$Time
 t = -4.2568, df = 29, p-value = 0.0001984
@@ -15,7 +16,7 @@ mean of x
  #answer3
   t.test(mydata$cyl, mydata$hp, alt="two.sided")
 
-	Welch Two Sample t-test
+Welch Two Sample t-test
 
 data:  mydata$cyl and mydata$hp
 t = -11.588, df = 31.042, p-value = 8.322e-13
